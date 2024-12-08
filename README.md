@@ -1,6 +1,6 @@
 # Personality Profiler
 ## Overview
-Personality Checker is a tool designed to help users uncover insights about their personality. Using an engaging questionnaire, it determines personality types based on popular psychological framework MBTI.
+**Personality Profiler** is a tool designed to help users uncover insights about their personality. Using an engaging questionnaire, it determines personality types based on popular psychological framework **MBTI**.
 
 ## Setup and Installation
 Setup and Installation
