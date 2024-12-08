@@ -1,7 +1,7 @@
 def personality_checker():
     print("Welcome to the Personality Checker!")
     print("Answer the following questions with 'Y' for Yes or 'N' for No to determine your personality type.")
-    
+
     questions = [
         ("You enjoy social gatherings and meeting new people.", "E", "I"),
         ("You rely more on facts than intuition.", "S", "N"),
@@ -10,7 +10,7 @@ def personality_checker():
     ]
     
     scores = {"E": 0, "I": 0, "S": 0, "N": 0, "T": 0, "F": 0, "J": 0, "P": 0}
-    
+
     for question, positive_trait, negative_trait in questions:
         print(f"\n{question}")
         answer = input("Enter 'Y' (Yes) or 'N' (No): ").strip().upper()
@@ -21,7 +21,7 @@ def personality_checker():
         else:
             print("Invalid input. Please enter 'Y' or 'N'. Skipping question.")
     
-    # Determine personality type
+    # calculate personality type
     personality = (
         ("E" if scores["E"] > scores["I"] else "I") +
         ("S" if scores["S"] > scores["N"] else "N") +
