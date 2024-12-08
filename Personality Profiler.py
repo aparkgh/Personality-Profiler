@@ -1,5 +1,5 @@
-def personality_checker():
-    print("Welcome to the Personality Checker!")
+def personality_profiler():
+    print("Welcome to the Personality Profiler!")
     print("Answer the following questions to determine your personality type.")
     
     questions = [
@@ -30,4 +30,4 @@ def personality_checker():
     
     print(f"\nYour personality type is: {personality}")
     
-personality_checker()
+personality_profiler()
