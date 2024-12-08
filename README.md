@@ -5,10 +5,6 @@
 ## Setup and Installation
 Setup and Installation
 1. Install Python 3.x on your system.
-2. Install the required Python libraries:
-```
-pip install openai PyPDF2
-```
 
 ## How to use
 1. Run the application:
