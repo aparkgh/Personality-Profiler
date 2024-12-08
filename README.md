@@ -6,4 +6,12 @@ Personality Checker is a tool designed to help users uncover insights about thei
 Setup and Installation
 1. Install Python 3.x on your system.
 2. Install the required Python libraries:
-   `pip install openai PyPDF2`
+```
+pip install openai PyPDF2
+```
+   
+## How to use
+1. Run the application:
+```
+python personality_checker.py
+```
