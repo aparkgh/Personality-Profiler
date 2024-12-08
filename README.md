@@ -12,4 +12,4 @@ Setup and Installation
 python personality_checker.py
 ```
 
-!! This is very much a work in progress !!
+ℹ️ This is very much a work in progress !!
