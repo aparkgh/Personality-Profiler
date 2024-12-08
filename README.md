@@ -9,7 +9,7 @@ Setup and Installation
 ```
 pip install openai PyPDF2
 ```
-   
+
 ## How to use
 1. Run the application:
 ```
