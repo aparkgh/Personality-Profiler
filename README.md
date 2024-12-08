@@ -15,3 +15,5 @@ pip install openai PyPDF2
 ```
 python personality_checker.py
 ```
+
+!! This is very much a work in progress !!
