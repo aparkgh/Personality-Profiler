@@ -9,7 +9,7 @@ Setup and Installation
 ## How to use
 1. Run the application:
 ```
-python "Personality_Profiler.py"
+python "Personality Profiler.py"
 ```
 
 ℹ️ This is very much a work in progress !!
